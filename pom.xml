@@ -32,10 +32,7 @@
   		<version>42.2.8</version>
   	</dependency>
   	
-  	<properties>
-    <cargo.remote.username>admin</cargo.remote.username>
-    <cargo.remote.password>yourpassword</cargo.remote.password>
-</properties>
+  	
 
 	<dependency>
 	    <groupId>mysql</groupId>
